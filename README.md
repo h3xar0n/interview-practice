@@ -29,3 +29,4 @@ The checkbox indicates whether all relevant material from the site has been tran
 ### Intermediate and Advanced
 - [ ] [Sharrif Prep](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 - [ ] [Front-End Skills](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
+- [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

@@ -26,5 +26,6 @@ The checkbox indicates whether all relevant material from the site has been tran
 ### Specifics
 - [ ] [Unit Testing](https://stackoverflow.com/questions/61400/what-makes-a-good-unit-test)
 
-
-
+### Intermediate and Advanced
+- [ ] [Sharrif Prep](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
+- [ ] [Front-End Skills](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)

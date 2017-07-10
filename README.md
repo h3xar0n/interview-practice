@@ -32,6 +32,10 @@ The checkbox indicates whether all relevant material from the site has been tran
 - [ ] [Psuedo-Class](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)
 - [ ] [Psuedo-Element](http://nicolasgallagher.com/an-introduction-to-css-pseudo-element-hacks/)
 - [ ] [Vertical Centering](http://vanseodesign.com/css/vertical-centering/)
+- [ ] [Sprites](https://www.smashingmagazine.com/2009/04/the-mystery-of-css-sprites-techniques-tools-and-tutorials/)
+- [ ] [Shadow DOM](https://www.w3.org/TR/shadow-dom/#introduction)
+- [ ] [Transition](https://blog.alexmaccaw.com/css-transitions)
+- [ ] [Filter](https://www.html5rocks.com/en/tutorials/filters/understanding-css/)
 
 #### JavaScript
 - [ ] [Sharrif Prep](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)

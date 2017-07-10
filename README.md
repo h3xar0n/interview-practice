@@ -27,6 +27,13 @@ The checkbox indicates whether all relevant material from the site has been tran
 - [ ] [Unit Testing](https://stackoverflow.com/questions/61400/what-makes-a-good-unit-test)
 
 ### Intermediate and Advanced
+
+#### CSS
+- [ ] [Psuedo-Class](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)
+- [ ] [Psuedo-Element](http://nicolasgallagher.com/an-introduction-to-css-pseudo-element-hacks/)
+- [ ] [Vertical Centering](http://vanseodesign.com/css/vertical-centering/)
+
+#### JavaScript
 - [ ] [Sharrif Prep](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 - [ ] [Front-End Skills](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)
 - [ ] [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)

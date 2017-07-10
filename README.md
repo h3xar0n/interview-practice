@@ -12,7 +12,7 @@
 The checkbox indicates whether all relevant material from the site has been transfered to flashcards.
 
 ### Q and A
-- [ ] [JS Dude](http://thatjsdude.com/interview/html.html)
+- [ ] [JS Dude](http://thatjsdude.com/interview)
 - [ ] [JS Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 ### Quizes

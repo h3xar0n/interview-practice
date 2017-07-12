@@ -12,6 +12,7 @@
 The checkbox indicates whether all relevant material from the site has been transfered to flashcards.
 
 ### Q and A
+- [ ] [JS Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [ ] [JS Dude](http://thatjsdude.com/interview):
   - [x] HTML
   - [x] CSS
@@ -19,9 +20,9 @@ The checkbox indicates whether all relevant material from the site has been tran
   - [ ] JS 2
   - [ ] DOM related (JS 3)
   - [ ] Linked list
-- [ ] [JS Mastery](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-### Quizes
+### Quizzes
+- [ ] [W3School](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JavaScript)
 - [ ] [Sharrif](http://davidshariff.com/quiz/)
 - [ ] [Tests 4 Geeks](https://tests4geeks.com/html-css-javascript/?utm_campaign=quora&utm_content=what-types-of-questions-are-asked-in-front-end-developer-interviews&utm_medium=referral&utm_source=quora.com)
 
